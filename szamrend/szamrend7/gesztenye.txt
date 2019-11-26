@@ -1,0 +1,5 @@
+Józsi;50
+Ábel;40
+Bach;30
+Stirling;35
+Lilla;20
