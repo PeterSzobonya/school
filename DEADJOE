@@ -1,0 +1,143 @@
+
+*** These modified files were found in JOE when it aborted on Tue Nov 26 13:05:56 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File '/afs/inf.elte.hu/user/y/yk/ykmm49/.gitconfig'
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 114 files changed, 2258 insertions(+)
+ create mode 100644 funkc/funkc10/magasabbrendufuggvenyekebbenavilagbaninvariansakhello.hs
+ create mode 100644 funkc/funkc11/magasabbmintKhoa.hs
+ create mode 100644 funkc/funkc2/1feladat.hs
+ create mode 100644 funkc/funkc2/egesz.hs
+ create mode 100644 funkc/funkc2/test.hs
+ create mode 100644 funkc/funkc2/tortek.hs
+ create mode 100644 funkc/funkc2019.09.17/First.hs
+ create mode 100644 funkc/funkc2019.09.17/First.hs~
+ create mode 100644 funkc/funkc4/76ca9973-5a29-4c7e-ae00-3d38e01776dc.hs
+ create mode 100644 funkc/funkc4/beadjav.hs
+ create mode 100644 funkc/funkc4/gyak.hs
+ create mode 100644 funkc/funkc5/gyak.hs
+ create mode 100644 funkc/funkc5/listak.hs
+ create mode 100644 funkc/funkc6/elso.hs
+ create mode 100644 funkc/funkc6/orai.hs
+ create mode 100644 funkc/funkc7/Untitled-1
+ create mode 100644 funkc/funkc7/funkc7.hs
+ create mode 100644 funkc/funkc8/8.hs
+ create mode 100644 funkc/funkc9/gyak.hs
+ create mode 100644 funkc/funkc9/zhgyak.hs
+ create mode 100644 funkc/funkcZH/funkcZH.hs
+ create mode 100755 impprog/alma/a.out
+ create mode 100644 impprog/alma/fahrenheit.c
+ create mode 100644 impprog/alma/fahrenheit.py
+ create mode 100755 impprog/alma/hello
+ create mode 100644 impprog/alma/hello.c
+ create mode 100644 impprog/alma/hello.o
+ create mode 100644 impprog/alma/hello.py
+ create mode 100644 impprog/alma/szignum.c
+ create mode 100644 impprog/alma/szignum.py
+ create mode 100644 impprog/alma10/.vscode/settings.json
+ create mode 100755 impprog/alma10/c/a.out
+ create mode 100644 impprog/alma10/c/counter.c
+ create mode 100644 impprog/alma10/c/main.c
+ create mode 100644 impprog/alma10/c/minta/.vscode/settings.json
+ create mode 100755 impprog/alma10/c/minta/a.out
+ create mode 100644 impprog/alma10/c/minta/fibonacchi.c
+ create mode 100644 impprog/alma10/c/minta/minta.c
+ create mode 100644 impprog/alma10/py/counter.py
+ create mode 100644 impprog/alma10/py/counter.pyc
+ create mode 100644 impprog/alma10/py/main.py
+ create mode 100644 impprog/alma11/probazh.c
+ create mode 100644 impprog/alma3/beolv.py
+ create mode 100644 impprog/alma3/fizzbuzz.py
+ create mode 100644 impprog/alma3/index.py
+ create mode 100644 impprog/alma3/osztok.py
+ create mode 100644 impprog/alma3/prim.py
+ create mode 100644 impprog/alma3/tokeletes.py
+ create mode 100644 impprog/alma4/DEADJOE
+ create mode 100755 impprog/alma4/a.out
+ create mode 100644 impprog/alma4/pointer1.c
+ create mode 100644 impprog/alma4/pointer2.c
+ create mode 100644 impprog/alma4/pointer3.c
+ create mode 100644 impprog/alma4/pointer4.c
+ create mode 100644 impprog/alma4/tomb1.c
+ create mode 100644 impprog/alma4/tomb2.c
+ create mode 100755 impprog/alma5/a.out
+ create mode 100644 impprog/alma5/charlength.c
+ create mode 100644 impprog/alma5/konkatenalas.c
+ create mode 100644 impprog/alma5/tombok.c
+ create mode 100755 impprog/alma7/a.out
+ create mode 100644 impprog/alma7/impprog7.c
+ create mode 100644 impprog/alma7/impprog7.h
+ create mode 100755 impprog/alma8/a.out
+ create mode 100644 impprog/alma8/macro.c
+ create mode 100644 impprog/alma8/matrix.c
+ create mode 100644 impprog/alma8/szambeolvas.c
+ create mode 100644 impprog/alma9/alma.py
+ create mode 100644 impprog/alma9/gyak1.py
+ create mode 100755 prog/komplexbead/a.out
+ create mode 100644 prog/komplexbead/komplex.cpp
+ create mode 100644 szamrend/190930/elso.txt
+ create mode 100644 szamrend/190930/elso.txt~
+ create mode 100755 szamrend/190930/parancsok.sh
+ create mode 100755 szamrend/sz190916/alma.txt
+ create mode 100755 szamrend/szaZH1911/1.sh
+ create mode 100755 szamrend/szaZH1911/2.sh
+ create mode 100644 szamrend/szaZH1911/chio.txt
+ create mode 100644 szamrend/szaZH1911/gyumolcs/alma/jonathan.txt
+ create mode 100644 szamrend/szaZH1911/test
+ create mode 100644 szamrend/szaZH1911/zoldseg/burgonya/chips.txt
+ create mode 100644 szamrend/szamrend/3
+ create mode 100755 szamrend/szamrend/elso.sh
+ create mode 100755 szamrend/szamrend/masodik.sh
+ create mode 100755 szamrend/szamrend11/1.sh
+ create mode 100644 szamrend/szamrend11/bemenet
+ create mode 100644 szamrend/szamrend6/2.sh
+ create mode 100755 szamrend/szamrend6/masodperc.sh
+ create mode 100755 szamrend/szamrend6/rombusz.sh
+ create mode 100755 szamrend/szamrend6/teglalap.sh
+ create mode 100755 szamrend/szamrend7/gesztenye.sh
+ create mode 100644 szamrend/szamrend7/gesztenye.txt
+ create mode 100755 szamrend/szamrend7/gesztenye2.sh
+ create mode 100755 szamrend/szamrend7/gesztenyeMain.sh
+ create mode 100755 szamrend/szamrend7/lotto.sh
+ create mode 100755 szamrend/szamrend8/1.sh
+ create mode 100755 szamrend/szamrend8/2.sh
+ create mode 100644 szamrend/szamrend8/szaZH1811/adatok
+ create mode 100644 szamrend/szamrend8/szaZH1811/dir1811/ELTE/IK/informatika/hallgatok
+ create mode 100644 szamrend/szamrend8/szaZH1811/dir1811/ELTE/IK/terkep/waze
+ create mode 100644 szamrend/szamrend8/szaZH1811/dir1811/ELTE/TTK/matek/tanulok
+ create mode 100755 szamrend/szamrend8/szamrend8.sh
+ create mode 100755 szamrend/szamrendBead2/1/1.sh
+ create mode 100644 szamrend/szamrendBead2/1/adatok
+ create mode 100644 szamrend/szamrendBead2/1/szoveg
+ create mode 100755 szamrend/szamrendBead2/2/2.sh
+ create mode 100644 szamrend/szamrendBead2/2/test
+ create mode 100755 szamrend/szamrend_gyak/1.sh
+ create mode 100755 szamrend/szamrend_gyak/2.sh
+ create mode 100644 szamrend/szamrend_gyak/szaZH1811/adatok
+ create mode 100644 szamrend/szamrend_gyak/szaZH1811/dir1811/ELTE/IK/informatika/hallgatok
+ create mode 100644 szamrend/szamrend_gyak/szaZH1811/dir1811/ELTE/IK/terkep/waze
+ create mode 100644 szamrend/szamrend_gyak/szaZH1811/dir1811/ELTE/TTK/matek/tanulok
+ create mode 100644 szamrend/ykmm49.zip
+ykmm49@lovi001:~/ykmm49$ # This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Szobonya Péter
+#	email = szobonya.peter@gmail.com
+
+
+
+
+*** File '(Unnamed)'
+elso.txt
+/afs/inf.elte.hu/user/y/yk/ykmm49/.gitconfig
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
