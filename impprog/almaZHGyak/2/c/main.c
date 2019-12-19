@@ -21,6 +21,7 @@ int main(){
     int *t2 = (int*)malloc(n2*sizeof(int));
     t2=filter(t,n,n2); 
     for(int i=0; i<n2; ++i) printf("%d ",t2[i]);
+    printf("\n");
 
     free(t2);
     free(t);

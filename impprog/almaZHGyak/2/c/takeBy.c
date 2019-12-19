@@ -13,7 +13,7 @@ int* filter (int* t,int n, int n2){
     }
     if(j<n){
         while(j<n){
-            t[j]=NULL;
+            t[j]=0;
             ++j;
         }
     }
