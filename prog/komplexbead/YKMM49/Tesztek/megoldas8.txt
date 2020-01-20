@@ -1,0 +1,2 @@
+Nem megfelelo adatot adott meg! A telepulesek szama 1 es 1000 kozott kell hogy legyen!
+Adja meg ujra:
