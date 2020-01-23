@@ -1,0 +1,1 @@
+#include "feladat1Fug.c"
