@@ -1,0 +1,6 @@
+Gergo 4.97 15
+Dori 1.83 42
+Alma 3.33 11
+Amondo 5.0 77
+Csaba 4.51 69
+Peti 6.66 666

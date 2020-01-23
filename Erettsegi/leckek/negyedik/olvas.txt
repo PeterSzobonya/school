@@ -1,0 +1,6 @@
+2 3
+12 8 9 7
+alma korte barack
+True 11 666 72
+1 2 3 4 5
+fa katica kiskacsa

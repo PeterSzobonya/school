@@ -4,7 +4,7 @@ def main():
     #feladatEgy()
     #feladatKetto()
     #feladatHarom()
-    bonusz()
+    #bonusz()
 
 
 def haakkor():
