@@ -6,9 +6,9 @@ def main():
     #feladatOt()
     #feladatHat()
     #feladatHet()
-    #feladatNyolc()
+    feladatNyolc()
     #feladatKilenc()
-    feladatTiz()
+    #feladatTiz()
 
 
 def feladatEgy():
